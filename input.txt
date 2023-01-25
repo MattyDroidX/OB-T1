@@ -1,0 +1,23 @@
+Cómo funciona la ficha persona de alumno en Excel
+Con esta plantilla de Excel editable puedes volcar todos los datos de tus estudiantes y añadir o modificar campos, como por ejemplo los datos médicos y anotar si tiene alergias alimentarias o la situación familiar. Lo principal de la ficha personal de los alumnos es que puedes personalizarla y configurarla según tus necesidades, es un documento donde registras la información en el menor espacio posible. La plantilla de la ficha del estudiante contiene varios campos en los cuales puedes reflejar una serie de factores importantes:
+
+Nombre y apellidos
+Fecha de nacimiento
+DNI
+Email
+Edad
+Teléfono fijo
+Móvil
+Foto
+Datos del domicilio
+Datos académicos
+Datos de alergias
+Datos de situación familiar
+Grupo
+Asignaturas
+Notas
+Otros datos
+Los datos de la ficha del alumno en formato Excel no son siempre iguales, dependerá de lo que quieras reflejar en él y destacar. Tras completar los datos generales puedes poner las anotaciones del documento de asistencia, de las calificaciones o del comportamiento para no realizar un documento muy extenso. Aunque llevar todas las fichas de los alumnos en formato Excel al día puede ser laborioso es de gran ayuda de cara a las reuniones de padres y de profesores agilizando tu labor de docente.
+
+Descargar la plantilla descriptiva del alumno en Excel
+Existen un sinfín de plantillas prácticas para los profesores y de material educativo que puede volcarse en este tipo de documento. Si te descargas la plantilla gratuita descriptiva del estudiante en Excel podrás personalizarla con los datos de cada uno de tus alumnos, anotar sus particularidades, notas y otra información personal del alumno. Así tendrás una ficha que describe cada alumno concretamente y que puedes modificar tantas veces como necesites.
