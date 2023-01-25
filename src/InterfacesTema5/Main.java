@@ -1,10 +1,10 @@
 package InterfacesTema5;
 
 public class Main {
-    static CocheCrudImpl coche;
+    static CocheCRUD cocheCrud = new CocheCrudImpl();
     public static void main(String[] args) {
-        coche.delete(new Coche());
-        coche.save(new Coche());
-        coche.findAll();
+        cocheCrud.delete(new Coche());
+        cocheCrud.save(new Coche());
+        cocheCrud.findAll();
     }
 }
